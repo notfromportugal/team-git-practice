@@ -4,3 +4,4 @@ change something else in src.txt
 change something in src.txt
 >>>>>>> conflict-creator
 hello
+close issue
